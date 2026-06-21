@@ -1,0 +1,1 @@
+# EdgeView-5.9.0-for-Mac
